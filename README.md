@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**garnet-hub/garnet-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ![Logo](https://raw.githubusercontent.com/garnet-hub/garnet-hub/main/logo.png)
+## features:
+- Supports multiple configurations, which can be swapped at ease,
+- Only delete symlinks made by Garnet,
+- Backup and other failsafes to ensure your files stay safe!
+## FAQ 
+#### Who am I?
+Im phant80m, a small rust developer trying to create the best dotfile manager.
+#### What do I have planned?
+Im planning to add a multitude of features to Garnet, but its all a work in progress and will take time!  
